@@ -1,4 +1,4 @@
--- ðŸ”´ REDZ HUB | CRYPTA v5.7 CANDY EGG | MOHAM-MADEX12 | Delta Ready
+-- REDZ HUB | CRYPTA v5.7 CANDY EGG | MOHAM-MADEX12 | Delta Ready
 local Players,RunService,UserInputService,TeleportService,ReplicatedStorage,Workspace,Camera=game:GetService("Players"),game:GetService("RunService"),game:GetService("UserInputService"),game:GetService("TeleportService"),game:GetService("ReplicatedStorage"),game:GetService("Workspace"),workspace.CurrentCamera
 local LocalPlayer=Players.LocalPlayer
 getgenv().CRYPTA_LOADED=true
